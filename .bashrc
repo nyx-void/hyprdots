@@ -48,6 +48,9 @@ alias v='nvim'
 alias vi='nvim'
 alias vim='nvim'
 
+# Camera
+alias cam='mpv --untimed --no-cache --no-osc --no-input-default-bindings --profile=low-latency --input-conf=/dev/null --title=webcam $(ls /dev/video[0,2,4,6,8] | tail -n 1)'
+
 # change dir shortcuts
 alias ..='cd ..'
 alias ...='cd ../..'
