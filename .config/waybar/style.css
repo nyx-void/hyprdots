@@ -3,7 +3,7 @@
     border-radius: 0px;
     font-family: "Cantarell";
     font-weight: bold;
-    font-size: 13px;
+    font-size: 11px;
     min-height: 10px;
 }
 
@@ -103,13 +103,13 @@ tooltip {
 }
 
 #custom-r_end {
-    border-radius: 0px 21px 21px 0px;
+    border-radius: 0px 9px 9px 0px;
     margin-right: 9px;
     padding-right: 3px;
 }
 
 #custom-l_end {
-    border-radius: 11px 0px 0px 11px;
+    border-radius: 9px 0px 0px 9px;
     margin-left: 9px;
     padding-left: 3px;
 }
